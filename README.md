@@ -1,4 +1,4 @@
-#This is Aupala
+# This is Aupala
 ### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
